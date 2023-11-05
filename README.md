@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently Study on Bangkit
 - 🌱 I’m currently learning Android Mobile App
-- 👯 I’m looking to collaborate on React JS, MERN Stack
-- 💬 Ask me about javascript, ReactJS, MERN
+- 👯 I’m looking to collaborate on Kotlin, Android App, React JS, MERN Stack
+- 💬 Ask me about Kotlin, Android App, javascript, ReactJS, MERN
 - 📫 How to reach me: you can contact my email -> dzikryhabibie85@gmail.com
